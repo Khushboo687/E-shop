@@ -25,10 +25,10 @@ min-height: 650px;
 position: relative;
 }
 .home .home-banner-1{
-    background-image: url("../Images/slide1.jpg");
+    background-image: url("./Images/slide1.jpg");
 }
 .home .home-banner-2{
-    background-image: url("../Images/slide2.jpg");
+    background-image: url("./Images/slide2.jpg");
 }
 .home .home-banner .home-banner-text{
     position: absolute;
